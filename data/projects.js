@@ -8,8 +8,8 @@ const DESIGNER = {
   "role": "Visual Designer & Creative Director",
   "tagline": "Crafting visual stories that captivate, convert & inspire.",
   "email": "simovite7@gmail.com",
-  "phone": "+212 993 601 72",
-  "whatsapp": "https://wa.me/21299360172",
+  "phone": "+212 699 360 172",
+  "whatsapp": "https://wa.me/212699360172",
   "location": "Morocco",
   "bio": "I'm a passionate visual designer specializing in social media content, brand identity, and digital storytelling. With a keen eye for typography, color, and composition, I transform ideas into striking visuals that resonate across platforms — from food branding to sports campaigns and viral thumbnails.",
   "social": {

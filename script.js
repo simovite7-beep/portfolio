@@ -562,6 +562,11 @@
       whatsappBtn.href = DESIGNER.whatsapp;
     }
 
+    const whatsappFloat = $('#whatsapp-float');
+    if (whatsappFloat && DESIGNER.whatsapp) {
+      whatsappFloat.href = DESIGNER.whatsapp;
+    }
+
     if (socialLinks && DESIGNER.social) {
       socialLinks.innerHTML = `
         <a href="${DESIGNER.social.instagram}" target="_blank" rel="noopener noreferrer" aria-label="Instagram" class="social-btn">Instagram</a>
@@ -597,7 +602,7 @@
       ].join('\n');
 
       const whatsappUrl =
-        (DESIGNER.whatsapp || 'https://wa.me/21299360172') +
+        (DESIGNER.whatsapp || 'https://wa.me/212699360172') +
         '?text=' +
         encodeURIComponent(whatsappText);
 
